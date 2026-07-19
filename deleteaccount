@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Delete Your Explain AI Account</title>
+<style>
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    max-width:900px;
+    margin:auto;
+    padding:40px;
+    background:#fafafa;
+    color:#222;
+    line-height:1.7;
+}
+.card{
+    background:white;
+    padding:35px;
+    border-radius:12px;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+h1,h2{color:#1e3a8a;}
+</style>
+</head>
+<body>
+
+<div class="card">
+
+<h1>Delete Your Explain AI Account</h1>
+
+<p>
+If you would like to permanently delete your Explain AI account and associated data, you may do so using one of the following methods.
+</p>
+
+<h2>Option 1 (Recommended)</h2>
+
+<p>
+Open the Explain AI app and navigate to:
+</p>
+
+<p><strong>Profile → Settings → Delete Account</strong></p>
+
+<p>
+Follow the prompts to permanently delete your account.
+</p>
+
+<h2>Option 2</h2>
+
+<p>
+If you cannot access your account, contact us by email and request account deletion.
+</p>
+
+<p>
+<strong>Email:</strong> cartercarroyt@gmail.com
+</p>
+
+<h2>What is Deleted?</h2>
+
+<ul>
+<li>Your account information</li>
+<li>Your saved flashcards</li>
+<li>Your study decks</li>
+<li>Your learning history</li>
+<li>Your favorites</li>
+<li>Your profile information</li>
+</ul>
+
+<h2>What May Be Retained?</h2>
+
+<p>
+Certain information may be retained when required by law or for fraud prevention purposes.
+</p>
+
+</div>
+
+</body>
+</html>
